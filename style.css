@@ -1,0 +1,12 @@
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content:space-between;
+}
+h1{
+    color:blue;
+}
+body{
+    background-color: aqua;
+}
+
